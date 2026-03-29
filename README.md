@@ -19,7 +19,7 @@ Facilitar a organização pessoal e profissional, ajudando o usuário a manter c
 * HTML
 * CSS
 * JavaScript
-* (Opcional) Python / MySQL
+* (Opcional) Python / Flask
 
 ## 💡 Possíveis aplicações
 
